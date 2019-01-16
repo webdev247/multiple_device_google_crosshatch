@@ -18,3 +18,6 @@ add_lunch_combo aosp_crosshatch-userdebug
 add_lunch_combo aosp_blueline-userdebug
 add_lunch_combo havoc_crosshatch-userdebug
 add_lunch_combo havoc_blueline-userdebug
+add_lunch_combo xenonhd_crosshatch-userdebug
+add_lunch_combo xenonhd_blueline-userdebug
+
