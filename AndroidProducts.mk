@@ -17,5 +17,5 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_crosshatch.mk \
     $(LOCAL_DIR)/aosp_blueline.mk \
-    $(LOCAL_DIR)/scorpion_crosshatch.mk \
-    $(LOCAL_DIR)/scorpion_blueline.mk
+    $(LOCAL_DIR)/havoc_crosshatch.mk \
+    $(LOCAL_DIR)/havoc_blueline.mk
