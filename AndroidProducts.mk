@@ -20,4 +20,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/havoc_crosshatch.mk \
     $(LOCAL_DIR)/xenonhd_crosshatch.mk \
     $(LOCAL_DIR)/xenonhd_blueline.mk \
-    $(LOCAL_DIR)/scorpion_crosshatch.mk
+    $(LOCAL_DIR)/scorpion_crosshatch.mk \
